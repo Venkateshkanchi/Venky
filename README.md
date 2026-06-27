@@ -10,7 +10,7 @@
     height="165"
   />
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mr-Smb&layout=compact&theme=dracula&hide_border=true&langs_count=6" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Venky&layout=compact&theme=dracula&hide_border=true&langs_count=6" 
     height="165"
   />
 </p>
