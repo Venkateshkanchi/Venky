@@ -6,7 +6,7 @@
 ---
 <p align="center">
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mr-Smb&show_icons=true&theme=dracula&hide_border=true" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Venky&show_icons=true&theme=dracula&hide_border=true" 
     height="165"
   />
   <img 
